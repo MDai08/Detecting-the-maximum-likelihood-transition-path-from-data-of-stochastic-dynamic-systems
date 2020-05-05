@@ -1,0 +1,1 @@
+# Detecting-the-maximum-likelihood-transition-path-from-data-of-stochastic-dynamic-systems
